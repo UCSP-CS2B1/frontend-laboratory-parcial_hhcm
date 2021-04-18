@@ -9,11 +9,10 @@
 
 **Members:**
 
-- Name and surname (Student ID)
-- Name and surname (Student ID)
-- Name and surname (Student ID)
-- Name and surname (Student ID)
-- Name and surname (Student ID)
+- Harold Villanueva Borda (HarryLexvb)
+- Cledy Becerra (cledybs)
+- Hillary Huaman Sanchez(hillakass)
+- Massiel Oviedo Sivincha (massielovi)
 
 ---
 
