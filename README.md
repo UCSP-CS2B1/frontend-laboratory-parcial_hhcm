@@ -1,11 +1,13 @@
 ## Laboratory Activity
 
-**Grade** -
+**Grade** 18
 
-- (5pts) Layout
-- (5pts) CSS 
-- (5pts) Javascript methods
-- (5pts) Responsiveness
+- (5/5pts) Layout
+- (5/5pts) CSS 
+- (3/5pts) Javascript methods
+- (5/5pts) Responsiveness
+
+Awesome! but tests are failing
 
 **Members:**
 
